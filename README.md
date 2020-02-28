@@ -23,7 +23,7 @@ There are some features in this repo:
   in my library freely.  
 - If you have trouble, maybe you haven't enable i2c and spi in your dt_param in /boot/config.txt  
   Try to enable all of them  
-- If there are any problem, please feel free to contact me at my [mail](khoanguyen1507dn@gmail.com)  
+- If there are any problem, please feel free to contact me at my email: khoanguyen1507dn@gmail.com  
 
 ## Hope you love this.
 
