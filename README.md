@@ -1,8 +1,8 @@
 # Peripheral_Raspberry_stdlib
 Author: Nguyen Huynh Dang Khoa - Victor Nguyen  
-January-February 2020
-Major: Embedded System - Computer Science
-University: Danang University of Sciences and Technology
+January-February 2020  
+Major: Embedded System - Computer Science  
+University: Danang University of Sciences and Technology  
 
 ## About
 Here are some peripheral library in C that you can use on Raspberry Pi 3B+.  
