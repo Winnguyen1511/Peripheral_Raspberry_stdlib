@@ -15,7 +15,7 @@ There are some features in this repo:
 - I2C library, I port this library from I2C library of STM32 HAL, the usage is quite the same,  
   see this example here: [I2C](https://github.com/Winnguyen1511/I2C_ADC_MSP430)  
 - SPI library, I also port from SPI HAL STM32.  
-- 3rd Party Library including: MPU6050, LCD 16x2, RFID RC522:[MPU6050](https://github.com/Winnguyen1511/MPU6050_Linux_Rasp3), [LCD](https://github.com/Winnguyen1511/LCD_RPi), [RC522](https://github.com/Winnguyen1511/testRFID)  
+- 3rd Party Library including:[MPU6050](https://github.com/Winnguyen1511/MPU6050_Linux_Rasp3), [LCD](https://github.com/Winnguyen1511/LCD_RPi), [RC522](https://github.com/Winnguyen1511/testRFID)  
 
 ## How to use ?
 - Just deep into my example projects in my github repo, try to run on Raspberry Pi 3B+.  
